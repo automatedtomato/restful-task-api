@@ -1,0 +1,11 @@
+## 質問
+- それぞれの依存関係の役割は？
+- syncなど、他のライブラリの説明も
+- mutex??
+- gin.Context?
+- c.JSON??
+- 	id := c.Param("id")
+- godocって?
+- router?
+- .Group?
+- CORS?
